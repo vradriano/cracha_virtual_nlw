@@ -10,6 +10,8 @@ body {
 
 main {
   background-image: url(images/background.svg);
+  width: 375px;
+  height: 815px;
 }
 
 h1 {
